@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! I'm Julianna
+
+### 🌱 Currently Learning
+- Full stack development (frontend + backend)  
+
+### 🎮 Fun Fact
+I’d love to break into the video game industry one day!  
 
 <!--
 **JRVaccaro/JRVaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
